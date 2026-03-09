@@ -1,7 +1,7 @@
 
-  # Untitled
+  # recoverly
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/dVh9IQGwyGpWy49mCbwSMS/Untitled.
+  This is a code bundle for recoverly. The original project is available at https://www.figma.com/design/dVh9IQGwyGpWy49mCbwSMS/recoverly.
 
   ## Running the code
 
